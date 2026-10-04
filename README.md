@@ -1,1 +1,1 @@
-Саму игру (exe файл) лежит здесь ---> https://github.com/koheriuma/Game-2/releases/tag/Game-2
+Саму игру (exe файл) можно скачать здесь ---> https://github.com/koheriuma/Game-2/releases/tag/Game-2
